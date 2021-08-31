@@ -1,0 +1,6 @@
+{"database": [
+        {"name": "red tshirt", "price": 10.99, "id": 1, "img" : "https://i.imgur.com/iUFDyao.png" },
+        {"name": "yellow hoodie", "price": 24.99, "id": 2, "img" : "https://i.imgur.com/ws6IqoK.png" },
+        {"name": "blue polo", "price":18.99, "id": 3, "img" : "https://i.imgur.com/rKLKxJK.png"}
+    ]
+}
