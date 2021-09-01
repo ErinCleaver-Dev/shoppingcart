@@ -5,7 +5,7 @@ const ProductLink = ({productLink}) => {
     return (
 
         <Link className="product-link" to={link}>
-            <h1>{productLink.name}</h1>
+            <h1>{productLink.name}, ${productLink.price}</h1>
             <img src={productLink.img}/>
         </Link>
 
